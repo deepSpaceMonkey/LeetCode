@@ -11,3 +11,6 @@ Two Sum from leetcode:
         the difference in the map. We used an unordered map to save on time and having it ordered is not necessary.
         Time complexity: O(n). We go through the array only once and insert and lookup only once. 
         Space complexity: O(n) since we create a map of size n.
+        
+    Experience:
+        I learned about hashing and unordered vs ordered maps. This is such a useful tool as I can now use a method other than brute force to save time and make things less complicated. Yes it is less intuitive but there are also less things to keep track of. 
